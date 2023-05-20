@@ -1,0 +1,986 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/"
+ xmlns:dcterms="http://purl.org/dc/terms/">
+     <z:Collection rdf:about="#collection_1">
+        <dc:title>A 马克思主义、列宁主义、毛泽东思想、邓小平理论 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_23"/>
+        <dcterms:hasPart rdf:resource="#collection_24"/>
+        <dcterms:hasPart rdf:resource="#collection_25"/>
+        <dcterms:hasPart rdf:resource="#collection_26"/>
+        <dcterms:hasPart rdf:resource="#collection_27"/>
+        <dcterms:hasPart rdf:resource="#collection_28"/>
+        <dcterms:hasPart rdf:resource="#collection_29"/>
+        <dcterms:hasPart rdf:resource="#collection_30"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_23">
+        <dc:title>A1 马克思、恩格斯著作 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_24">
+        <dc:title>A2 列宁著作 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_25">
+        <dc:title>A3 斯大林著作 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_26">
+        <dc:title>A4 毛泽东著作 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_27">
+        <dc:title>A49 邓小平著作 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_28">
+        <dc:title>A5 马克思、恩格斯、列宁、斯大林、毛泽东、邓小平著作汇编 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_29">
+        <dc:title>A7 马克思、恩格斯、列宁、斯大林、毛泽东、邓小平生平和传记 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_30">
+        <dc:title>A8 马克思主义、列宁主义、毛泽东思想、邓小平理论的学习和研究 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_2">
+        <dc:title>B 哲学、宗教 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_31"/>
+        <dcterms:hasPart rdf:resource="#collection_32"/>
+        <dcterms:hasPart rdf:resource="#collection_33"/>
+        <dcterms:hasPart rdf:resource="#collection_34"/>
+        <dcterms:hasPart rdf:resource="#collection_35"/>
+        <dcterms:hasPart rdf:resource="#collection_36"/>
+        <dcterms:hasPart rdf:resource="#collection_37"/>
+        <dcterms:hasPart rdf:resource="#collection_38"/>
+        <dcterms:hasPart rdf:resource="#collection_39"/>
+        <dcterms:hasPart rdf:resource="#collection_40"/>
+        <dcterms:hasPart rdf:resource="#collection_41"/>
+        <dcterms:hasPart rdf:resource="#collection_42"/>
+        <dcterms:hasPart rdf:resource="#collection_43"/>
+        <dcterms:hasPart rdf:resource="#collection_44"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_31">
+        <dc:title>B0 哲学理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_32">
+        <dc:title>B1 世界哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_33">
+        <dc:title>B2 中国哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_34">
+        <dc:title>B3 亚洲哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_35">
+        <dc:title>B4 非洲哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_36">
+        <dc:title>B5 欧洲哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_37">
+        <dc:title>B6 大洋州哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_38">
+        <dc:title>B7 美洲哲学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_39">
+        <dc:title>B80 思维科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_40">
+        <dc:title>B81 逻辑学（论理学） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_41">
+        <dc:title>B82 伦理学（道德学） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_42">
+        <dc:title>B83 美学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_43">
+        <dc:title>B84 心理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_44">
+        <dc:title>B9 宗教 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_3">
+        <dc:title>C 社会科学总论 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_45"/>
+        <dcterms:hasPart rdf:resource="#collection_46"/>
+        <dcterms:hasPart rdf:resource="#collection_47"/>
+        <dcterms:hasPart rdf:resource="#collection_48"/>
+        <dcterms:hasPart rdf:resource="#collection_49"/>
+        <dcterms:hasPart rdf:resource="#collection_50"/>
+        <dcterms:hasPart rdf:resource="#collection_51"/>
+        <dcterms:hasPart rdf:resource="#collection_52"/>
+        <dcterms:hasPart rdf:resource="#collection_53"/>
+        <dcterms:hasPart rdf:resource="#collection_54"/>
+        <dcterms:hasPart rdf:resource="#collection_55"/>
+        <dcterms:hasPart rdf:resource="#collection_56"/>
+        <dcterms:hasPart rdf:resource="#collection_57"/>
+        <dcterms:hasPart rdf:resource="#collection_58"/>
+        <dcterms:hasPart rdf:resource="#collection_59"/>
+        <dcterms:hasPart rdf:resource="#collection_60"/>
+        <dcterms:hasPart rdf:resource="#collection_61"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_45">
+        <dc:title>C0 社会科学理论与方法论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_46">
+        <dc:title>C1 社会科学概况、现状、进展 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_47">
+        <dc:title>C2 社会科学机构、团体、会议 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_48">
+        <dc:title>C3 社会科学研究方法 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_49">
+        <dc:title>C4 社会科学教育与普及 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_50">
+        <dc:title>C5 社会科学丛书、文集、连续性出版物 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_51">
+        <dc:title>C6 社会科学参考工具书 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_52">
+        <dc:title>C7  社会科学文献检索工具书 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_53">
+        <dc:title>C79 非书资料、视听资料 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_54">
+        <dc:title>C8 统计学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_55">
+        <dc:title>C91 社会学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_56">
+        <dc:title>C92 人口学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_57">
+        <dc:title>C93 管理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_58">
+        <dc:title>C94  系统科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_59">
+        <dc:title>C95 民族学、文化人类学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_60">
+        <dc:title>C96 人才学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_61">
+        <dc:title>C97 劳动科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_4">
+        <dc:title>D 政治、法律 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_62"/>
+        <dcterms:hasPart rdf:resource="#collection_63"/>
+        <dcterms:hasPart rdf:resource="#collection_64"/>
+        <dcterms:hasPart rdf:resource="#collection_65"/>
+        <dcterms:hasPart rdf:resource="#collection_66"/>
+        <dcterms:hasPart rdf:resource="#collection_67"/>
+        <dcterms:hasPart rdf:resource="#collection_68"/>
+        <dcterms:hasPart rdf:resource="#collection_69"/>
+        <dcterms:hasPart rdf:resource="#collection_70"/>
+        <dcterms:hasPart rdf:resource="#collection_71"/>
+        <dcterms:hasPart rdf:resource="#collection_72"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_62">
+        <dc:title>D0 政治学、政治理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_63">
+        <dc:title>D1 国际共产主义运动 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_64">
+        <dc:title>D2 中国共产党 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_65">
+        <dc:title>D33-37  各国共产党 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_66">
+        <dc:title>D4 工人、农民、青年、妇女运动与组织 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_67">
+        <dc:title>D5 世界政治 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_68">
+        <dc:title>D6 中国政治 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_69">
+        <dc:title>D73-77  各国政治 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_70">
+        <dc:title>D8 外交、国际关系 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_71">
+        <dc:title>D9 法律 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_72">
+        <dc:title>DF 法律 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_5">
+        <dc:title>E 军事 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_73"/>
+        <dcterms:hasPart rdf:resource="#collection_74"/>
+        <dcterms:hasPart rdf:resource="#collection_75"/>
+        <dcterms:hasPart rdf:resource="#collection_76"/>
+        <dcterms:hasPart rdf:resource="#collection_77"/>
+        <dcterms:hasPart rdf:resource="#collection_78"/>
+        <dcterms:hasPart rdf:resource="#collection_79"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_73">
+        <dc:title>E0 军事理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_74">
+        <dc:title>E1 世界军事 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_75">
+        <dc:title>E2 中国军事 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_76">
+        <dc:title>E3-7 各国军事 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_77">
+        <dc:title>E8 战略学、战役学、战术学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_78">
+        <dc:title>E9 军事技术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_79">
+        <dc:title>E99 军事地形学、军事地理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>F 经济 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_80"/>
+        <dcterms:hasPart rdf:resource="#collection_81"/>
+        <dcterms:hasPart rdf:resource="#collection_82"/>
+        <dcterms:hasPart rdf:resource="#collection_83"/>
+        <dcterms:hasPart rdf:resource="#collection_84"/>
+        <dcterms:hasPart rdf:resource="#collection_85"/>
+        <dcterms:hasPart rdf:resource="#collection_86"/>
+        <dcterms:hasPart rdf:resource="#collection_87"/>
+        <dcterms:hasPart rdf:resource="#collection_88"/>
+        <dcterms:hasPart rdf:resource="#collection_89"/>
+        <dcterms:hasPart rdf:resource="#collection_90"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_80">
+        <dc:title>F0 经济学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_81">
+        <dc:title>F1 世界各国经济概况、经济史、经济地理 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_82">
+        <dc:title>F2 经济管理 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_83">
+        <dc:title>F3 农业经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_84">
+        <dc:title>F4 工业经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_85">
+        <dc:title>F49 信息产业经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_86">
+        <dc:title>F5 交通运输经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_87">
+        <dc:title>F59 旅游经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_88">
+        <dc:title>F6 邮电通信经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_89">
+        <dc:title>F7 贸易经济 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_90">
+        <dc:title>F8 财政、金融 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_7">
+        <dc:title>G 文化.科学.教育.体育 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_91"/>
+        <dcterms:hasPart rdf:resource="#collection_92"/>
+        <dcterms:hasPart rdf:resource="#collection_93"/>
+        <dcterms:hasPart rdf:resource="#collection_94"/>
+        <dcterms:hasPart rdf:resource="#collection_95"/>
+        <dcterms:hasPart rdf:resource="#collection_96"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_91">
+        <dc:title>G0 文化理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_92">
+        <dc:title>G1 世界各国文化与文化事业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_93">
+        <dc:title>G2 信息与知识传播 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_94">
+        <dc:title>G3 科学、科学研究 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_95">
+        <dc:title>G4 教育 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_96">
+        <dc:title>G8 体育 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_8">
+        <dc:title>J 艺术 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_97"/>
+        <dcterms:hasPart rdf:resource="#collection_98"/>
+        <dcterms:hasPart rdf:resource="#collection_99"/>
+        <dcterms:hasPart rdf:resource="#collection_100"/>
+        <dcterms:hasPart rdf:resource="#collection_101"/>
+        <dcterms:hasPart rdf:resource="#collection_102"/>
+        <dcterms:hasPart rdf:resource="#collection_103"/>
+        <dcterms:hasPart rdf:resource="#collection_104"/>
+        <dcterms:hasPart rdf:resource="#collection_105"/>
+        <dcterms:hasPart rdf:resource="#collection_106"/>
+        <dcterms:hasPart rdf:resource="#collection_107"/>
+        <dcterms:hasPart rdf:resource="#collection_108"/>
+        <dcterms:hasPart rdf:resource="#collection_109"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_97">
+        <dc:title>J0 艺术理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_98">
+        <dc:title>J1 世界各国艺术概况 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_99">
+        <dc:title>J19 专题艺术与现代边缘艺术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_100">
+        <dc:title>J2 绘画 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_101">
+        <dc:title>J29 书法、篆刻 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_102">
+        <dc:title>J3 雕塑 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_103">
+        <dc:title>J4 摄影艺术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_104">
+        <dc:title>J5 工艺美术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_105">
+        <dc:title>J59  建筑艺术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_106">
+        <dc:title>J6 音乐 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_107">
+        <dc:title>J7 舞蹈 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_108">
+        <dc:title>J8 戏剧、曲艺、杂技艺术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_109">
+        <dc:title>J9 电影、电视艺术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_9">
+        <dc:title>H 语言、文字 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_110"/>
+        <dcterms:hasPart rdf:resource="#collection_111"/>
+        <dcterms:hasPart rdf:resource="#collection_112"/>
+        <dcterms:hasPart rdf:resource="#collection_113"/>
+        <dcterms:hasPart rdf:resource="#collection_114"/>
+        <dcterms:hasPart rdf:resource="#collection_115"/>
+        <dcterms:hasPart rdf:resource="#collection_116"/>
+        <dcterms:hasPart rdf:resource="#collection_117"/>
+        <dcterms:hasPart rdf:resource="#collection_118"/>
+        <dcterms:hasPart rdf:resource="#collection_119"/>
+        <dcterms:hasPart rdf:resource="#collection_120"/>
+        <dcterms:hasPart rdf:resource="#collection_121"/>
+        <dcterms:hasPart rdf:resource="#collection_122"/>
+        <dcterms:hasPart rdf:resource="#collection_123"/>
+        <dcterms:hasPart rdf:resource="#collection_124"/>
+        <dcterms:hasPart rdf:resource="#collection_125"/>
+        <dcterms:hasPart rdf:resource="#collection_126"/>
+        <dcterms:hasPart rdf:resource="#collection_127"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_110">
+        <dc:title>H0 语言学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_111">
+        <dc:title>H1 汉语 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_112">
+        <dc:title>H2 中国少数民族语言 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_113">
+        <dc:title>H3 常用外国语 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_114">
+        <dc:title>H4 汉藏语系 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_115">
+        <dc:title>H5 阿尔泰语系(突厥-蒙古-通古斯语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_116">
+        <dc:title>H61 南亚语系（澳斯特罗-亚细亚语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_117">
+        <dc:title>H62 南印语系（达罗毗荼语系、德拉维达语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_118">
+        <dc:title>H63 南岛语系（马来亚-玻里尼西亚语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_119">
+        <dc:title>H64 东北亚诸语言 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_120">
+        <dc:title>H65 高加索语系（伊比利亚-高加索语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_121">
+        <dc:title>H66 乌拉尔语系（芬兰-乌戈尔语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_122">
+        <dc:title>H67 闪-含语系（阿非罗-亚细亚语系） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_123">
+        <dc:title>H7 印欧语系 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_124">
+        <dc:title>H81 非洲诸语言 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_125">
+        <dc:title>H83 美洲诸语言 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_126">
+        <dc:title>H84 大洋州诸语言 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_127">
+        <dc:title>H9 国际辅助语 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_10">
+        <dc:title>I 文学 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_128"/>
+        <dcterms:hasPart rdf:resource="#collection_129"/>
+        <dcterms:hasPart rdf:resource="#collection_130"/>
+        <dcterms:hasPart rdf:resource="#collection_131"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_128">
+        <dc:title>I0 文学理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_129">
+        <dc:title>I1 世界文学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_130">
+        <dc:title>I2 中国文学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_131">
+        <dc:title>I3-7 各国文学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_11">
+        <dc:title>K 历史、地理 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_132"/>
+        <dcterms:hasPart rdf:resource="#collection_133"/>
+        <dcterms:hasPart rdf:resource="#collection_134"/>
+        <dcterms:hasPart rdf:resource="#collection_135"/>
+        <dcterms:hasPart rdf:resource="#collection_136"/>
+        <dcterms:hasPart rdf:resource="#collection_137"/>
+        <dcterms:hasPart rdf:resource="#collection_138"/>
+        <dcterms:hasPart rdf:resource="#collection_139"/>
+        <dcterms:hasPart rdf:resource="#collection_140"/>
+        <dcterms:hasPart rdf:resource="#collection_141"/>
+        <dcterms:hasPart rdf:resource="#collection_142"/>
+        <dcterms:hasPart rdf:resource="#collection_143"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_132">
+        <dc:title>K0 史学理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_133">
+        <dc:title>K1 世界史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_134">
+        <dc:title>K2 中国史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_135">
+        <dc:title>K3 亚洲史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_136">
+        <dc:title>K4 非洲史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_137">
+        <dc:title>K5 欧洲史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_138">
+        <dc:title>K6 大洋州史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_139">
+        <dc:title>K7 美洲史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_140">
+        <dc:title>K81 传记 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_141">
+        <dc:title>K85 文物考古 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_142">
+        <dc:title>K89 风俗习惯 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_143">
+        <dc:title>K9 地理 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_12">
+        <dc:title>N 自然科学总论 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_144"/>
+        <dcterms:hasPart rdf:resource="#collection_145"/>
+        <dcterms:hasPart rdf:resource="#collection_146"/>
+        <dcterms:hasPart rdf:resource="#collection_147"/>
+        <dcterms:hasPart rdf:resource="#collection_148"/>
+        <dcterms:hasPart rdf:resource="#collection_149"/>
+        <dcterms:hasPart rdf:resource="#collection_150"/>
+        <dcterms:hasPart rdf:resource="#collection_151"/>
+        <dcterms:hasPart rdf:resource="#collection_152"/>
+        <dcterms:hasPart rdf:resource="#collection_153"/>
+        <dcterms:hasPart rdf:resource="#collection_154"/>
+        <dcterms:hasPart rdf:resource="#collection_155"/>
+        <dcterms:hasPart rdf:resource="#collection_156"/>
+        <dcterms:hasPart rdf:resource="#collection_157"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_144">
+        <dc:title>N0 自然科学理论与方法论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_145">
+        <dc:title>N1 自然科学概况、现状、进展 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_146">
+        <dc:title>N2 自然科学机关、团体、会议 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_147">
+        <dc:title>N3 自然科学研究方法 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_148">
+        <dc:title>N4 自然科学教育与普及 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_149">
+        <dc:title>N5 自然科学丛书、文集、连续性出版物 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_150">
+        <dc:title>N6 自然科学参考工具书 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_151">
+        <dc:title>N7  自然科学文献检索工具 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_152">
+        <dc:title>N79 非书资料、视听资料 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_153">
+        <dc:title>N8 自然科学调查、考察 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_154">
+        <dc:title>N91 自然研究、自然历史 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_155">
+        <dc:title>N93 非线性科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_156">
+        <dc:title>N94 系统科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_157">
+        <dc:title>N99  情报学、情报工作 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_13">
+        <dc:title>O 数理科学和化学 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_158"/>
+        <dcterms:hasPart rdf:resource="#collection_159"/>
+        <dcterms:hasPart rdf:resource="#collection_160"/>
+        <dcterms:hasPart rdf:resource="#collection_161"/>
+        <dcterms:hasPart rdf:resource="#collection_162"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_158">
+        <dc:title>O1 数学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_159">
+        <dc:title>O3 力学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_160">
+        <dc:title>O4 物理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_161">
+        <dc:title>O6 化学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_162">
+        <dc:title>O7 晶体学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_14">
+        <dc:title>P 天文学、地球科学 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_163"/>
+        <dcterms:hasPart rdf:resource="#collection_164"/>
+        <dcterms:hasPart rdf:resource="#collection_165"/>
+        <dcterms:hasPart rdf:resource="#collection_166"/>
+        <dcterms:hasPart rdf:resource="#collection_167"/>
+        <dcterms:hasPart rdf:resource="#collection_168"/>
+        <dcterms:hasPart rdf:resource="#collection_169"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_163">
+        <dc:title>P1 天文学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_164">
+        <dc:title>P2 测绘学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_165">
+        <dc:title>P3 地球物理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_166">
+        <dc:title>P4 大气科学（气象学） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_167">
+        <dc:title>P5 地质学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_168">
+        <dc:title>P7 海洋学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_169">
+        <dc:title>P9 自然地理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_15">
+        <dc:title>Q 生物科学 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_170"/>
+        <dcterms:hasPart rdf:resource="#collection_171"/>
+        <dcterms:hasPart rdf:resource="#collection_172"/>
+        <dcterms:hasPart rdf:resource="#collection_173"/>
+        <dcterms:hasPart rdf:resource="#collection_174"/>
+        <dcterms:hasPart rdf:resource="#collection_175"/>
+        <dcterms:hasPart rdf:resource="#collection_176"/>
+        <dcterms:hasPart rdf:resource="#collection_177"/>
+        <dcterms:hasPart rdf:resource="#collection_178"/>
+        <dcterms:hasPart rdf:resource="#collection_179"/>
+        <dcterms:hasPart rdf:resource="#collection_180"/>
+        <dcterms:hasPart rdf:resource="#collection_181"/>
+        <dcterms:hasPart rdf:resource="#collection_182"/>
+        <dcterms:hasPart rdf:resource="#collection_183"/>
+        <dcterms:hasPart rdf:resource="#collection_184"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_170">
+        <dc:title>Q1 普通生物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_171">
+        <dc:title>Q2 细胞生物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_172">
+        <dc:title>Q3 遗传学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_173">
+        <dc:title>Q4 生理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_174">
+        <dc:title>Q5 生物化学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_175">
+        <dc:title>Q6 生物物理学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_176">
+        <dc:title>Q7 分子生物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_177">
+        <dc:title>Q81 生物工程学（生物技术） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_178">
+        <dc:title>Q89  环境生物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_179">
+        <dc:title>Q91 古生物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_180">
+        <dc:title>Q93 微生物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_181">
+        <dc:title>Q94 植物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_182">
+        <dc:title>Q95 动物学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_183">
+        <dc:title>Q96 昆虫学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_184">
+        <dc:title>Q98 人类学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_16">
+        <dc:title>R 医药、卫生 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_185"/>
+        <dcterms:hasPart rdf:resource="#collection_186"/>
+        <dcterms:hasPart rdf:resource="#collection_187"/>
+        <dcterms:hasPart rdf:resource="#collection_188"/>
+        <dcterms:hasPart rdf:resource="#collection_189"/>
+        <dcterms:hasPart rdf:resource="#collection_190"/>
+        <dcterms:hasPart rdf:resource="#collection_191"/>
+        <dcterms:hasPart rdf:resource="#collection_192"/>
+        <dcterms:hasPart rdf:resource="#collection_193"/>
+        <dcterms:hasPart rdf:resource="#collection_194"/>
+        <dcterms:hasPart rdf:resource="#collection_195"/>
+        <dcterms:hasPart rdf:resource="#collection_196"/>
+        <dcterms:hasPart rdf:resource="#collection_197"/>
+        <dcterms:hasPart rdf:resource="#collection_198"/>
+        <dcterms:hasPart rdf:resource="#collection_199"/>
+        <dcterms:hasPart rdf:resource="#collection_200"/>
+        <dcterms:hasPart rdf:resource="#collection_201"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_185">
+        <dc:title>R1 预防医学、卫生学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_186">
+        <dc:title>R2 中国医学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_187">
+        <dc:title>R3 基础医学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_188">
+        <dc:title>R4 临床医学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_189">
+        <dc:title>R5 内科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_190">
+        <dc:title>R6 外科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_191">
+        <dc:title>R71 妇产科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_192">
+        <dc:title>R72 儿科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_193">
+        <dc:title>R73 肿瘤学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_194">
+        <dc:title>R74 神经病学与精神病学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_195">
+        <dc:title>R75 皮肤病学与性病学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_196">
+        <dc:title>R76 耳鼻咽喉科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_197">
+        <dc:title>R77 眼科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_198">
+        <dc:title>R78 口腔科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_199">
+        <dc:title>R79 外国民族医学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_200">
+        <dc:title>R8 特种医学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_201">
+        <dc:title>R9 药学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_17">
+        <dc:title>T 工业技术 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_202"/>
+        <dcterms:hasPart rdf:resource="#collection_203"/>
+        <dcterms:hasPart rdf:resource="#collection_204"/>
+        <dcterms:hasPart rdf:resource="#collection_205"/>
+        <dcterms:hasPart rdf:resource="#collection_206"/>
+        <dcterms:hasPart rdf:resource="#collection_207"/>
+        <dcterms:hasPart rdf:resource="#collection_208"/>
+        <dcterms:hasPart rdf:resource="#collection_209"/>
+        <dcterms:hasPart rdf:resource="#collection_210"/>
+        <dcterms:hasPart rdf:resource="#collection_211"/>
+        <dcterms:hasPart rdf:resource="#collection_212"/>
+        <dcterms:hasPart rdf:resource="#collection_213"/>
+        <dcterms:hasPart rdf:resource="#collection_214"/>
+        <dcterms:hasPart rdf:resource="#collection_215"/>
+        <dcterms:hasPart rdf:resource="#collection_216"/>
+        <dcterms:hasPart rdf:resource="#collection_217"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_202">
+        <dc:title>TB 一般工业技术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_203">
+        <dc:title>TD 矿业工程 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_204">
+        <dc:title>TE 石油、天然气工业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_205">
+        <dc:title>TF 冶金工业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_206">
+        <dc:title>TG 金属学与金属工艺 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_207">
+        <dc:title>TH 机械、仪表工业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_208">
+        <dc:title>TJ 武器工业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_209">
+        <dc:title>TK 能源与动力工程 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_210">
+        <dc:title>TL 原子能技术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_211">
+        <dc:title>TM 电工技术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_212">
+        <dc:title>TN 电子技术、通信技术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_213">
+        <dc:title>TP 自动化技术、计算机技术 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_214">
+        <dc:title>TQ 化学工业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_215">
+        <dc:title>TS 轻工业、手工业、生活服务业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_216">
+        <dc:title>TU 建筑科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_217">
+        <dc:title>TV 水利工程 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_18">
+        <dc:title>S 农业科学 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_218"/>
+        <dcterms:hasPart rdf:resource="#collection_219"/>
+        <dcterms:hasPart rdf:resource="#collection_220"/>
+        <dcterms:hasPart rdf:resource="#collection_221"/>
+        <dcterms:hasPart rdf:resource="#collection_222"/>
+        <dcterms:hasPart rdf:resource="#collection_223"/>
+        <dcterms:hasPart rdf:resource="#collection_224"/>
+        <dcterms:hasPart rdf:resource="#collection_225"/>
+        <dcterms:hasPart rdf:resource="#collection_226"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_218">
+        <dc:title>S1 农业基础科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_219">
+        <dc:title>S2 农业工程 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_220">
+        <dc:title>S3 农学（农艺学） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_221">
+        <dc:title>S4 植物保护 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_222">
+        <dc:title>S5 农作物 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_223">
+        <dc:title>S6 园艺 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_224">
+        <dc:title>S7 林业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_225">
+        <dc:title>S8 畜牧、 动物医学、狩猎、蚕、蜂 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_226">
+        <dc:title>S9 水产、渔业 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_19">
+        <dc:title>U 交通运输 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_227"/>
+        <dcterms:hasPart rdf:resource="#collection_228"/>
+        <dcterms:hasPart rdf:resource="#collection_229"/>
+        <dcterms:hasPart rdf:resource="#collection_230"/>
+        <dcterms:hasPart rdf:resource="#collection_231"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_227">
+        <dc:title>U1 综合运输 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_228">
+        <dc:title>U2 铁路运输 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_229">
+        <dc:title>U4 公路运输 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_230">
+        <dc:title>U6 水路运输 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_231">
+        <dc:title>U8  航空运输 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_20">
+        <dc:title>V 航空、航天 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_232"/>
+        <dcterms:hasPart rdf:resource="#collection_233"/>
+        <dcterms:hasPart rdf:resource="#collection_234"/>
+        <dcterms:hasPart rdf:resource="#collection_235"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_232">
+        <dc:title>V1 航空、航天技术的研究与探索 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_233">
+        <dc:title>V2 航空 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_234">
+        <dc:title>V4 航天（宇宙航行） </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_235">
+        <dc:title>V7  航空、航天医学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_21">
+        <dc:title>X 环境科学、安全科学 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_236"/>
+        <dcterms:hasPart rdf:resource="#collection_237"/>
+        <dcterms:hasPart rdf:resource="#collection_238"/>
+        <dcterms:hasPart rdf:resource="#collection_239"/>
+        <dcterms:hasPart rdf:resource="#collection_240"/>
+        <dcterms:hasPart rdf:resource="#collection_241"/>
+        <dcterms:hasPart rdf:resource="#collection_242"/>
+        <dcterms:hasPart rdf:resource="#collection_243"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_236">
+        <dc:title>X1 环境科学基础理论 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_237">
+        <dc:title>X2 社会与环境 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_238">
+        <dc:title>X3 环境保护管理 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_239">
+        <dc:title>X4 灾害及其防治 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_240">
+        <dc:title>X5 环境污染及其防治 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_241">
+        <dc:title>X7 行业污染、废物处理与综合利用 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_242">
+        <dc:title>X8 环境质量评价与环境监测 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_243">
+        <dc:title>X9 安全科学 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_22">
+        <dc:title>Z 综合性图书 </dc:title>
+        <dcterms:hasPart rdf:resource="#collection_244"/>
+        <dcterms:hasPart rdf:resource="#collection_245"/>
+        <dcterms:hasPart rdf:resource="#collection_246"/>
+        <dcterms:hasPart rdf:resource="#collection_247"/>
+        <dcterms:hasPart rdf:resource="#collection_248"/>
+        <dcterms:hasPart rdf:resource="#collection_249"/>
+        <dcterms:hasPart rdf:resource="#collection_250"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_244">
+        <dc:title>Z1 丛书 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_245">
+        <dc:title>Z2 百科全书、类书 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_246">
+        <dc:title>Z3 辞典 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_247">
+        <dc:title>Z4 论文集、全集、选集、杂著 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_248">
+        <dc:title>Z5 年鉴、年刊 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_249">
+        <dc:title>Z6 期刊、连续性出版物 </dc:title>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_250">
+        <dc:title>Z8 图书报刊目录、文摘、索引 </dc:title>
+    </z:Collection>
+
+</rdf:RDF>
